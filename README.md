@@ -30,7 +30,7 @@ I'm Muhammad Haidar Akita Tresnadi, a 2nd-year informatics student at Bandung In
 
 
 
-<p align="center">
+<p align="left">
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darmodar&show_icons=true&locale=en" alt="darmodar" /></p>
 
 <!--
@@ -42,7 +42,7 @@ I'm Muhammad Haidar Akita Tresnadi, a 2nd-year informatics student at Bandung In
 
 
 
-<p align="center">
+<p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darmodar&" alt="darmodar" /></p>
 
 <!--
