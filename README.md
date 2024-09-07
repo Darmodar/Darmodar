@@ -10,8 +10,6 @@
 
 I'm Muhammad Haidar Akita Tresnadi, a 2nd-year informatics student at Bandung Institute of Technology. I am passionate about threat hunting in cyber security.
 
-Check out my personal website: [My Website](https://webhook.site/c981bff6-d289-4ad3-b330-51bf356ba426)
-
 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Darmodar/Darmodar/assets/90300735/599d4b7d-cd6c-4a1d-966a-c7781658f96e">
