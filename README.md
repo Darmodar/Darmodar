@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Haidar</h1>
 
 
-I'm Muhammad Haidar Akita Tresnadi, a 4th-year informatics student at Bandung Institute of Technology. I am passionate about threat hunting in cyber security.
+I'm Muhammad Haidar Akita Tresnadi, a 4th-year informatics student at Bandung Institute of Technology.
 
 
 
