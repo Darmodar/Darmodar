@@ -14,8 +14,10 @@ I'm Muhammad Haidar Akita Tresnadi, a 4th-year informatics student at Bandung In
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Darmodar/Darmodar/assets/90300735/599d4b7d-cd6c-4a1d-966a-c7781658f96e">
 
-
+<!--
 - <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/linux_rounded.gif?raw=true" width="18" />&nbsp;&nbsp;&nbsp; I’m currently learning **Modern Cryptography**
+-->
+
 - 📫 How to reach me **darmodar249@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darmodar&label=Profile%20views&color=0e75b6&style=flat" alt="darmodar" /> </p>
 <h3 align="left">Connect with me:</h3>
